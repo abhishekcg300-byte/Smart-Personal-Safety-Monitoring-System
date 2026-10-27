@@ -1,0 +1,7 @@
+backend/.env
+backend/*.db
+backend/__pycache__/
+backend/app/**/__pycache__/
+web-dashboard/node_modules/
+web-dashboard/dist/
+android-app/.gradle/
